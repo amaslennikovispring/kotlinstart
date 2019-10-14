@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestFunctions" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-14T14:27:21" hostname="A_MASLENNIKOV" time="0.024">
+  <properties/>
+  <testcase name="collection" classname="TestFunctions" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
